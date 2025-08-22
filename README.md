@@ -20,7 +20,7 @@ O programa permite ao usuário escolher uma das quatro operações matemáticas 
 2.  Abra o seu terminal na pasta onde o projeto foi clonado.
 3.  Execute o comando:
     ```bash
-    python nome_do_seu_arquivo.py
+    python calculadora.py
     ```
 
 ## 📚 Aprendizados
